@@ -23,6 +23,7 @@ int main(int argc, char** argv) {
     
     cout<<"hello ici mon premier cout";
     cout<<"un autre cout";
+    cout << "Plus j'ai de gardiens, Moins je suis gardé. Moins j'ai de gardiens, Plus je suis gardé. Qui est-il ?" << endl;
     return 0;
 }
 
