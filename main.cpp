@@ -22,6 +22,7 @@ using namespace std;
 int main(int argc, char** argv) {
     
     cout<<"hello ici mon premier cout";
+    cout<<"un autre cout";
     return 0;
 }
 
